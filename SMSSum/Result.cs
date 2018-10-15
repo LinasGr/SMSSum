@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace SMSSum
 {
-  class Result
+  public class Result
   {
     /// <summary>
     /// Object to save combination of sms to get value
